@@ -262,7 +262,7 @@ Through this project, I gained practical experience in:
 
 **Rohit Singh**
 
-BCA – Artificial Intelligence & Data Science
+Artificial Intelligence & Data Science
 
 Interested in Machine Learning, Artificial Intelligence, and building practical AI-powered solutions.
 
