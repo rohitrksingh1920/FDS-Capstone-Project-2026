@@ -271,3 +271,4 @@ Interested in Machine Learning, Artificial Intelligence, and building practical 
 ⭐ If you find this project useful, consider giving this repository a star!
 
 **Made with Python, Machine Learning, and curiosity.**
+**© 2026 HomeValue AI. All Rights Reserved. Created by Rohit.**
