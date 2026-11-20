@@ -369,16 +369,7 @@ with st.sidebar:
     st.markdown('<div class="eyebrow">POWERED BY</div><h3>Machine Learning</h3><p>Linear Regression Pipeline</p>', unsafe_allow_html=True)
     st.markdown("---")
     st.caption("Foundations of Practical Data Science")
-    st.markdown(
-    """
-    <div style="text-align:center; padding:20px; color:#888;">
-        © 2026 HomeValue AI. All Rights Reserved.
-        <br>
-        Created by Rohit.
-    </div>
-    """,
-    unsafe_allow_html=True
-)
+    
 
 # OVERVIEW
 if page == "Overview":
@@ -583,4 +574,16 @@ st.markdown(
     '<div class="brand-caption">PROPERTY INTELLIGENCE · POWERED BY MACHINE LEARNING</div>'
     '<p style="margin-top:12px;opacity:.7">Foundations of Practical Data Science</p></div>',
     unsafe_allow_html=True,
+)
+
+
+st.markdown(
+    """
+    <div style="text-align:center; padding:20px; color:#888;">
+        © 2026 HomeValue AI. All Rights Reserved.
+        <br>
+        Created by Rohit.
+    </div>
+    """,
+    unsafe_allow_html=True
 )
